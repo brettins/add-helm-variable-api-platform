@@ -7,7 +7,7 @@ The project contains a Bash script and a Python script that work together to add
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/<username>/<repository-name>.git
+git clone git@github.com:brettins/add-helm-variable-api-platform.git
 Navigate to the directory containing the scripts and the settings.ini file.
 ```
 
