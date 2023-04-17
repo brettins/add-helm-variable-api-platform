@@ -8,11 +8,9 @@ The project contains a Bash script and a Python script that work together to add
 
 ```bash
 git clone git@github.com:brettins/add-helm-variable-api-platform.git
-Navigate to the directory containing the scripts and the settings.ini file.
 ```
 
 2. Modify the settings.ini file to specify the file names for the deployment and values files for production and staging environments as needed.
-
 
 3. Run the Bash script add-helm-variable.sh
 
